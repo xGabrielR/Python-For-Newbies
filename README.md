@@ -1,2 +1,2 @@
 # Python For Newbies
-This repo ontains a pesonal Python Course for friends :)
+This repo contains a pesonal Python Course for friends :D
